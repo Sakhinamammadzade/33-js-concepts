@@ -9,9 +9,9 @@
 
 ## Giriş 
 
-Bu repozitoriya tərtibatçılara JavaScript-də öz konsepsiyalarını mənimsəməyə kömək etmək məqsədi ilə yaradılmışdır. Bu, zəruri deyil, gələcək tədqiqatlar üçün bələdçidir.Bu, Stephen Curtis tərəfindən yazılmış məqaləyə əsaslanır və onu [buradan](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) oxuya bilərsiniz.
+Bu repozitoriya tərtibatçılara JavaScript-də öz konsepsiyalarını mənimsəməyə kömək etmək məqsədi ilə yaradılmışdır. Bu,repo vacib deyil, lakin gələcək tədqiqatlar üçün bələdçidir.Repo Stephen Curtis tərəfindən yazılmış məqaləyə əsaslanır və onu [buradan](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) oxuya bilərsiniz.
 
-**🚀 Github tərəfindən  [2018-ci ilin ən yaxşı açıq mənbə layihəsi!](https://blog.github.com/2018-12-13-new-open-source-projects/) olaraq qəbul edilir**
+**🚀 Github tərəfindən  [2018-ci ilin ən yaxşı açıq mənbə layihəsi!](https://blog.github.com/2018-12-13-new-open-source-projects/) olaraq qəbul edilib**
 
 ## İcma
 
@@ -315,7 +315,7 @@ Funksiyalar leksik olaraq əhatə olunur, yəni onlar əsas əhatə dairəsində
 
 ## 7. Expression və  Statement fərqi
 ECMAScript spesifikasiyasına əsasən, ifadələr dəyər yaradır və ifadələr dəyişən təyinatı və ya nəzarət axını kimi bir hərəkəti yerinə yetirmək üçün təlimatlardır.
-Funcsion decleration qaldırılır və onlar kodda müəyyən edilməmişdən əvvəl çağırıla bilər, funksiya expression isə qaldırılmır və çağırılmadan əvvəl müəyyən edilməlidir.
+Funcsion decleration qaldırıla bilir (Hoist olunur) və onlar kodda müəyyən edilməmişdən əvvəl çağırıla bilər, funksiya expression isə qaldırılmır(hoist olunmur) və çağırılmadan əvvəl müəyyən edilməlidir.
 
 ### <img  align= center width=40px height=40px src="https://cdn-icons-png.flaticon.com/512/1945/1945940.png"> Məqalələr
 
