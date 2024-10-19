@@ -11,7 +11,7 @@
 
 Bu repozitoriya tərtibatçılara JavaScript-də öz konsepsiyalarını mənimsəməyə kömək etmək məqsədi ilə yaradılmışdır. Bu, zəruri deyil, gələcək tədqiqatlar üçün bələdçidir.Bu, Stephen Curtis tərəfindən yazılmış məqaləyə əsaslanır və onu [buradan](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) oxuya bilərsiniz.
 
-**🚀 Github tərəfindən qəbul edilir [2018-ci ilin ən yaxşı açıq mənbə layihələri!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Github tərəfindən  [2018-ci ilin ən yaxşı açıq mənbə layihəsi!](https://blog.github.com/2018-12-13-new-open-source-projects/) olaraq qəbul edilir**
 
 ## İcma
 
@@ -261,7 +261,7 @@ typeof Operator: typeof operatoru dəyişənin məlumat tipini yoxlamaq üçün 
 ---
 
 ## 6. Funksiya əhatə dairəsi, blok dairəsi və leksik əhatə dairəsi
- The ECMAScript specification outlines three key types of scope:
+ECMAScript spesifikasiyası üç əsas əhatə dairəsini təsvir edir:
 
 Funksiya əhatə dairəsi: var istifadə edərək funksiya daxilində elan edilən dəyişənlərə yalnız həmin funksiya daxilində daxil olmaq mümkündür. 
 
